@@ -1,2 +1,3 @@
 # areadelogin
- Área de login, cadastro e esqueci minha. Desenvolvido no primeiro semestre do curso de ADS da PUC  MG
+ Área de login, cadastro e esqueci minha. Desenvolvido no primeiro semestre do curso de ADS da PUC  MG.
+ Utilizando HTML,CSS e JavaScript.
